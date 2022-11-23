@@ -1,0 +1,16 @@
+.div1{
+    position: relative;
+    width: 400px;
+    height: 600px;
+    background:yellow;
+    border: 1px solid black;
+
+}
+
+.div2{
+    position: absolute;
+    background: red;
+    border: 1px solid black;
+    top: 50vh;
+    left: 50%;
+}
